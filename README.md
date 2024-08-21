@@ -13,6 +13,7 @@ A classic Rock, Paper, Scissors game implemented in Python. Play against the com
 1. Clone the repository:
     ```bash
     git clone https://github.com/tusharharyana/Rock-Paper-Scissors-Game.git
+    cd .\Rock-Paper-Scissors-Game\
     ```
 
 
